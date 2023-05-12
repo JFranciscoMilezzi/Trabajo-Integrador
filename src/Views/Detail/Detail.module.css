@@ -1,0 +1,19 @@
+.Detalles{
+    width: fit-content;
+    background-color: rgba(170, 153, 153, 0.034);
+    color: rgb(255, 255, 255);
+    border-radius: 10px aliceblue;
+    font-size: 1.3em;
+    margin: 0 auto;
+    box-shadow: 10px 15px 15px rgba(255, 255, 255, 0.34);
+}
+.Imagen {
+    background-color: rgb(20, 22, 22);
+    width: fit-content;
+    border-radius: 100%;
+    width: 20%;
+    border: 5px solid rgba(60, 57, 57, 0);
+    margin: 20px;
+    margin-right: 17vw;
+    
+}

@@ -1,0 +1,20 @@
+.SearchNav{
+    background-color: rgba(226, 31, 31, 0);
+    border-bottom: 1px solid #e6e6e69e;
+    
+    
+}
+.Buttoncitos {
+    background-color: rgba(31, 29, 29, 0.759);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    height: 50px;
+    width: 5vw;
+    font-weight: bold;
+    position: relative;
+    margin: 5px;
+    float: left;
+    
+}
+

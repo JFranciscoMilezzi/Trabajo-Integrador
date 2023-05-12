@@ -1,0 +1,36 @@
+.Card {
+    background-color: #00000067;
+    width: 23vw;
+    background-color: 698269;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: relative;
+    border: none;
+    box-shadow: 10px 15px 15px rgba(255, 255, 255, 0.34);
+    color: rgb(245, 245, 245);
+    display: inline-block;
+}
+
+.Imagen {
+    border-radius: 100%;
+    width: 75%;
+    border: 5px solid rgba(245, 245, 245, 0);
+}
+
+.Paneles {     
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.Button {
+    float: center;
+    background-color: rgb(31, 29, 29);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 47px;
+    width: 4vw;
+    font-weight: bold;
+    text-align: center;
+}
